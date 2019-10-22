@@ -1,7 +1,7 @@
 <?php 
 
 class User_model{
-	private $nama = 'eva  ';
+	private $nama = 'evi';
 
 
 	public function getUser(){
